@@ -14,6 +14,8 @@
   - https://note.com/resan0725/n/nea728b52f705
   - https://qiita.com/iwacchi/items/4cfb0a5e2418a69a34fd
 - Relationships
+  - https://www.foresight.jp/fe/column/database/?srsltid=AfmBOop1V8277oVOh-Myhv8BXmy2DdjYABW0Ema-PEMmEL_ENW76jbXU
+    - DB の説明
   - https://qiita.com/nownaka/items/01d28ffc638727ab3fa8
   - https://capibara1969.com/3367/
   - https://qiita.com/bsj-chenai/items/b203b217e3c4890a1026
